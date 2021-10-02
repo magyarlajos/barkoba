@@ -2,3 +2,4 @@ tárgy?=
 igen
 valakinek a valamije?
 igen
+ez a valaki magyar?
