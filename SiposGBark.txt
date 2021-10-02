@@ -6,3 +6,4 @@ ez a valaki magyar?
 igen
 férfi?
 igen
+él még?
