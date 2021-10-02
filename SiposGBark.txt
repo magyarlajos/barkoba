@@ -11,3 +11,4 @@ igen
 szinész?
 nem
 politikus?
+igen
