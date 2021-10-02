@@ -1,3 +1,4 @@
 tárgy?=
 igen
 valakinek a valamije?
+igen
