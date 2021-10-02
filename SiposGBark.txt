@@ -5,3 +5,4 @@ igen
 ez a valaki magyar?
 igen
 férfi?
+igen
