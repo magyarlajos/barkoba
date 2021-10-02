@@ -13,3 +13,4 @@ nem
 politikus?
 igen
 ellenzéki?
+nem
