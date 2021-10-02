@@ -1,2 +1,3 @@
 tárgy?=
 igen
+valakinek a valamije?
